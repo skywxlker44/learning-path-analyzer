@@ -1,0 +1,9 @@
+student_id,timestamp,activity_type,details
+1,2025-12-01 10:00:00,quiz_attempt,Quiz 1
+1,2025-12-01 12:00:00,forum_post,Commented in forum
+1,2025-12-02 09:00:00,assignment_submission,Assignment 1
+2,2025-12-01 11:00:00,quiz_attempt,Quiz 1
+2,2025-12-03 14:00:00,assignment_submission,Assignment 1
+2,2025-12-03 15:00:00,forum_post,Commented in forum
+2,2025-12-04 10:00:00,quiz_attempt,Quiz 2
+2,2025-12-05 13:00:00,quiz_attempt,Quiz 3

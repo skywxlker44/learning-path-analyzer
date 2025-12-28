@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+ENV/
+.vscode/
+.idea/
+.env
+.env.local
+*.log
+reports/*.png
+data/*.csv
+!data/sample.csv
